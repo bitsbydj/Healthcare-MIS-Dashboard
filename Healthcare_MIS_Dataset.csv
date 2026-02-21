@@ -1,0 +1,11 @@
+Date,Patient_ID,Patient_Name,Age,Gender,Department,Doctor,Admission_Type,Admission_Date,Discharge_Date,City,Treatment_Cost,Payment_Mode,Payment_Status
+01-01-2026,P001,Amit Sharma,45,Male,Cardiology,Dr. Mehta,Emergency,01-01-2026,05-01-2026,Delhi,55000,Cash,Paid
+02-01-2026,P002,Neha Verma,32,Female,Neurology,Dr. Rao,Planned,02-01-2026,06-01-2026,Noida,72000,Insurance,Pending
+03-01-2026,P003,Rohan Singh,60,Male,Orthopedics,Dr. Khan,Emergency,03-01-2026,08-01-2026,Ghaziabad,45000,UPI,Paid
+05-01-2026,P004,Priya Kapoor,27,Female,Gynecology,Dr. Mehta,Planned,05-01-2026,07-01-2026,Delhi,30000,Cash,Paid
+07-01-2026,P005,Arjun Patel,50,Male,Cardiology,Dr. Rao,Emergency,07-01-2026,12-01-2026,Gurgaon,88000,Insurance,Pending
+10-01-2026,P006,Sneha Gupta,38,Female,Neurology,Dr. Khan,Planned,10-01-2026,15-01-2026,Noida,60000,UPI,Paid
+12-01-2026,P007,Vikram Das,65,Male,Orthopedics,Dr. Mehta,Emergency,12-01-2026,18-01-2026,Delhi,75000,Cash,Paid
+15-01-2026,P008,Anjali Roy,29,Female,Gynecology,Dr. Rao,Planned,15-01-2026,19-01-2026,Ghaziabad,40000,Insurance,Paid
+18-01-2026,P009,Raj Malhotra,55,Male,Cardiology,Dr. Khan,Emergency,18-01-2026,23-01-2026,Delhi,95000,UPI,Pending
+20-01-2026,P010,Pooja Singh,41,Female,Neurology,Dr. Mehta,Planned,20-01-2026,25-01-2026,Noida,68000,Cash,Paid
