@@ -3,7 +3,7 @@
 ## dataset used
 - <a href="https://github.com/bitsbydj/Healthcare-MIS-Dashboard/blob/main/Healthcare_MIS_Dataset.csv">Dataset used</a>
 
-- dashboard <a href="github.com/bitsbydj/Healthcare-MIS-Dashboard/blob/4b1e6e3969510325809b72fbd43afcdde066a9b7/Screenshot 2026-02-21 151842.jpg">dashboard </a>
+- dashboard <a href="https://github.com/bitsbydj/Healthcare-MIS-Dashboard/blob/4b1e6e3969510325809b72fbd43afcdde066a9b7/Screenshot%202026-02-21%20151842.jpg">dashboard </a>
 
 
 ## Project Overview
